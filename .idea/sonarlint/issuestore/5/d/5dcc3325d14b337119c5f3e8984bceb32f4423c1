@@ -1,0 +1,17 @@
+
+b
+java:S1192)"GDefine a constant instead of duplicating this literal "cares" 11 times.(¸ë×üúÿÿÿÿ
+^
+java:S11923"HDefine a constant instead of duplicating this literal "caress" 10 times.(ªúôè
+]
+java:S1192>"GDefine a constant instead of duplicating this literal "baboon" 9 times.(ºô›é
+c
+java:S2095Û"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Øþ³Ñ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úò×Óûÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×õ¸Ó
+@
+java:S1181 "%Catch Exception instead of Throwable.(’ðôãøÿÿÿÿ
+F	java:S106ã"+Replace this use of System.out by a logger.(›´÷—ýÿÿÿÿ
+A	java:S106æ"+Replace this use of System.out by a logger.(ýìžç
+A
+java:S5960!"+Remove this assertion from production code.(”áðî

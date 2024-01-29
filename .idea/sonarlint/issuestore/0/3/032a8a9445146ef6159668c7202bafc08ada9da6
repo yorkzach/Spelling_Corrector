@@ -1,0 +1,23 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(†ìşßøÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áäÿåşÿÿÿÿ
+t
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆŠ¼ëıÿÿÿÿ
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş†«
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†ìşßøÿÿÿÿ
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
+m
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ô¹¸Ñûÿÿÿÿ
+T
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(à±ë
+T
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(à±ë
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
